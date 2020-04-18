@@ -1,0 +1,16 @@
+{
+  "description": "Shell extension for Getting Things Gnome. File your issues here: https://github.com/jorgeecardona/gtg-shell-extension/issues",
+  "extension-id": "gtg",
+  "name": "Getting Things Gnome",
+  "original-authors": [
+    "https://github.com/bsaleil",
+    "jorgeecardona@gmail.com"
+  ],
+  "gettext-domain": "gtg-shell-extension",
+  "settings-schema": "org.gnome.shell.extensions.gtg",
+  "shell-version": [
+    "3.34"
+  ],
+  "url": "https://github.com/jorgeecardona/gtg-shell-extension.git",
+  "uuid": "gtg@jorgeecardona.github.io"
+}
